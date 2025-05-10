@@ -1,0 +1,2 @@
+This folder contains the libary files for the face detection algorithm. 
+It is to note that the face detection algorithm is not mine and I do not intend to use this program for commercial reasons.
