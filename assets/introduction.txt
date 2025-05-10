@@ -1,0 +1,2 @@
+This folder contain assets required for the game filter section of the program.
+It is to note that the image used here is not original and was obtained from the website pngegg.com
